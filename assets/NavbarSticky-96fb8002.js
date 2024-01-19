@@ -1,1 +1,0 @@
-import{r as s,a as i,o as a,j as S}from"./DynamicThemeProvider-852093d9.js";const u=25,l=1,o=s.createContext(!1),y=({children:t})=>{const c=i(),r=a(),e=c?l:u,n=r.y>=e;return S.jsx(o.Provider,{value:n,children:t})};function k(){return s.useContext(o)}export{y as N,k as u};
