@@ -1,0 +1,1 @@
+import{r as s,a as i,k as a,j as S}from"./DynamicThemeProvider-CxehgrR0.js";const u=25,l=1,o=s.createContext(!1),x=({children:t})=>{const c=i(),r=a(),e=c?l:u,n=r.y>=e;return S.jsx(o.Provider,{value:n,children:t})};function y(){return s.useContext(o)}export{x as N,y as u};
