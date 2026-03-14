@@ -1,0 +1,1 @@
+function e(e){return new Worker(`/assets/editor.worker-C4Ln2gc_.js`,{name:e?.name})}export{e as default};

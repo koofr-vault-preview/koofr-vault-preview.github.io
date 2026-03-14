@@ -1,1 +1,0 @@
-const t="vaultLoginRedirect",o=()=>{try{return localStorage.getItem(t)??void 0}catch{return}},r=e=>{try{localStorage.setItem(t,e)}catch{}},c=()=>{try{localStorage.removeItem(t)}catch{}};export{o as g,c as r,r as s};

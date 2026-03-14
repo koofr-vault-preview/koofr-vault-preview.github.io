@@ -1,0 +1,1 @@
+function e(e){return new Worker(`/assets/css.worker-Cd5h-ZOL.js`,{name:e?.name})}export{e as default};

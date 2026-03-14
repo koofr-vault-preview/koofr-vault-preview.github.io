@@ -1,0 +1,1 @@
+function e(e){let t=`Koofr Vault`;document.title=e===void 0?t:`${e} - ${t}`}export{e as t};

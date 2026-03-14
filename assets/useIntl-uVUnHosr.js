@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-DECur_0Z.js";import{n as t}from"./jsx-runtime-BA9giqqw.js";import{a as n,t as r}from"./injectIntl-DcBbzoym.js";var i=e(t(),1);function a(){let e=i.useContext(r);return n(e),e}export{a as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./useWebVault-BDONIKNF.js";function t(){return e()}export{t};

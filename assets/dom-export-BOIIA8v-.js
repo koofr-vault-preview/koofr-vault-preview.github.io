@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-DECur_0Z.js";import{n as t}from"./jsx-runtime-BA9giqqw.js";import{a as n,r}from"./chunk-LFPYN7LY-qir83jfO.js";import{t as i}from"./react-dom-D7VaEYON.js";var a=e(t(),1),o=e(i(),1);function s(e){return a.createElement(r,{flushSync:o.flushSync,...e})}n();export{s as t};

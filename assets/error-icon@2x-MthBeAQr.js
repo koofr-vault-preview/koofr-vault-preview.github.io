@@ -1,0 +1,1 @@
+var e=`/assets/error-icon@2x-BZ-l7K0b.png`;export{e as t};

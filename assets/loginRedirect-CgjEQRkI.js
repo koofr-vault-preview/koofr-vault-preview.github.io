@@ -1,0 +1,1 @@
+var e=`vaultLoginRedirect`,t=()=>{try{return localStorage.getItem(`vaultLoginRedirect`)??void 0}catch{return}},n=t=>{try{localStorage.setItem(e,t)}catch{}},r=()=>{try{localStorage.removeItem(e)}catch{}};export{r as n,n as r,t};

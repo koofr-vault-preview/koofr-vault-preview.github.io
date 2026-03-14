@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-DECur_0Z.js";import{n as t}from"./jsx-runtime-BA9giqqw.js";var n=e(t(),1);async function r(){return await(await fetch(`/config.json`)).json()}var i=(0,n.createContext)(void 0);function a(){return(0,n.useContext)(i)}export{r as n,a as r,i as t};
